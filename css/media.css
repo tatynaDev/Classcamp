@@ -1,0 +1,541 @@
+@media (max-width: 1200px){
+    .container{
+        width: 90%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .navbar {
+        margin-left: 0
+    }
+    .image-first {
+        margin: 50px 0 0 30px;
+    }
+    .image-second {
+        left: 700px;
+    }
+    .offer img {
+        margin: 50px 0 0 0;
+    }
+    .what {
+        margin: 50px 0 0 60px;
+    }
+}
+
+@media (max-width: 992px) {
+    .can h1 {
+        margin: 170px 0 0 100px;
+    }
+    .can p {
+        margin: 300px 0 0 300px;
+    }
+    .course-img img {
+        width: 435px;
+        height: 400px;
+    }
+    .hero button {
+        margin: 50px 0 0 330px;
+    }
+    .hero p {
+        margin: 20px 0 0 370px;
+    }
+    .image-second {
+        left: 680px;
+    }
+    .image-first {
+        margin: 50px 0 0 0;
+    }
+    .first-content h1 {
+        font-size: 48px;
+    }
+    .first-content p {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    .them h1 {
+        font-size: 48px;
+    }
+    .them p {
+        font-size: 20px;
+    }
+    .elements h1 {
+        font-size: 48px;
+    }
+    .elements p{
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    .start h1 {
+        font-size: 48px;
+        margin-bottom: 30px;
+    }
+    .start p {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        display: none;
+    }
+    .navbar-second {
+        display: none;
+    }
+    .hamburger-menu {
+         display: block;
+     }
+    .hero h1 {
+        font-size: 50px;
+    }
+    .hero button {
+        margin: 50px 0 0 230px;
+    }
+
+    .hero button {
+        margin: 50px 0 0 230px;
+        width: 245px;
+        height: 56px;
+    }
+    .hero p {
+        margin: 20px 0 0 250px;
+    }
+    .image-first img {
+        width: 90%;
+    }
+    .image-second img {
+        width: 90%;
+        height: 570px;
+    }
+    .image-second {
+        left: 480px;
+        top: 570px;
+    }
+    .content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+    .second-img {
+        position: absolute;
+        top: 1530px;
+        right: 60px;
+    }
+    .first-img {
+        top: 30px;
+        right: 50px;
+    }
+    .first-content h1 {
+        margin-top: 50px;
+    }
+    .enrich {
+        flex-direction: column-reverse;
+    }
+    .them p {
+        margin-bottom: 50px;
+    }
+    .add {
+        flex-direction: column;
+    }
+    .elements p {
+        margin-bottom: 50px;
+    }
+    .share {
+        flex-direction: column-reverse;
+    }
+    .start p {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .offer img {
+        width: 90%;
+    }
+    .offer h2 {
+        font-size: 48px;
+    }
+    .offer p {
+        font-size: 20px;
+    }
+    .what {
+        margin: 50px 40px 0 0;
+        width: 700px;
+    }
+    .what h1 {
+        font-size: 48px;
+    }
+    .what button {
+        margin: 80px 0 0 200px;
+    }
+    .can h1 {
+        margin: 170px 0 0 0;
+    }
+    .can p {
+        margin: 300px 0 0 225px;
+    }
+    .course-img {
+        flex-direction: column;
+    }
+    .course h1 {
+        padding: 150px 0 0 120px;
+    }
+}
+
+@media (max-width: 576px) {
+    .hero button {
+        margin: 50px 0 0 130px;
+    }
+    .hero p {
+        margin: 20px 0 0 155px;
+    }
+    .image-first img {
+        width: 500px;
+        height: 365px;
+    }
+    .image-second img {
+        width: 200px;
+        height: 370px;
+    }
+    .image-second {
+        left: 340px;
+        top: 584px;
+    }
+    .first-img {
+        width: 90%;
+    }
+    .second-img {
+        top: 1400px;
+        right: 70px;
+        width: 250px;
+        height: 500px;
+    }
+    .first-img {
+        right: 20px;
+    }
+    .add-img img {
+        width: 90%;
+        margin-left: 30px;
+    }
+    .enrich-img img{
+        width: 90%;
+        margin-left: 40px;
+    }
+    .link-img img{
+        width: 90%;
+        margin-left: 50px;
+    }
+    .start h1 {
+        margin-left: 64px;
+    }
+    .what {
+        margin: 50px 0 0 10px;
+        width: 500px;
+        height: 350px;
+    }
+    .what h1 {
+        font-size: 36px;
+    }
+    .what h1 {
+        padding-top: 40px;
+    }
+    .offer p {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .what button {
+        width: 215px;
+        height: 50px;
+        font-size: 20px;
+        margin: 80px 0 0 150px
+    }
+    .can h1 {
+        margin-top: 100px;
+        font-size: 32px;
+    }
+    .can p {
+        margin: 240px 0 0 140px;
+    }
+    .course h1 {
+        font-size: 50px;
+        padding: 150px 0 0 79px;
+    }
+    footer {
+        flex-direction: column;
+    }
+    .footer {
+        flex-direction: column;
+    }
+    .footer div {
+        margin-bottom: 35px;
+    }
+    
+
+}
+@media (max-width: 450px) {
+    .container{
+        width: 90%;
+    }
+    .hero h1 {
+        font-size: 30px;
+    }
+    .hero h2 {
+        font-size: 20px;
+    }
+    .hero button {
+        width: 150px;
+        height: 40px;
+        font-size: 15px;
+    }
+    .hero p {
+        font-size: 12px;
+        margin: 20px 0 0 115px;
+    }
+    .image-first img {
+        width: 390px;
+        height: 300px;
+    }
+    .image-second {
+        left: 250px;
+        top: 495px;
+    }
+    .image-second img {
+        width: 180px;
+        height: 311px;
+    }
+    .second-img {
+        top: 1115px;
+        right: 35px;
+        width: 220px;
+        height: 425px;
+    }
+    .first-img {
+        right: 10px;
+        top: 65px;
+    }
+    .first-content h1 {
+        font-size: 30px;
+    }
+    .first-content p {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .second-content {
+        padding-top: 30px;
+    }
+    .them h1 {
+        font-size: 30px;
+    }
+    .them p {
+        font-size: 16px;
+    }
+    .elements h1 {
+        font-size: 30px;
+    }
+    .elements p {
+        font-size: 16px;
+    }
+    .start h1 {
+        margin-left: 45px;
+        font-size: 30px;
+    }
+    .start p {
+        font-size: 16px;
+    }
+    .trusted h1 {
+        font-size: 36px;
+    }
+    .trusted p {
+        font-size: 16px;
+    }
+    .offer h1 {
+        font-size: 16px;
+    }
+    .offer h2 {
+        font-size: 30px;
+    }
+    .offer p {
+        font-size: 12px;
+    }
+    .what {
+        margin: 50px 0 0 15px;
+        width: 380px;
+        height: 235px;
+    }
+    .what button {
+        width: 125px;
+        height: 30px;
+        font-size: 12px;
+        margin: 55px 0 0 125px;
+    }
+    .can h1 {
+        margin: 100px 0 0 45px;
+        font-size: 20px;
+    }
+    .can p {
+        font-size: 12px;
+    }
+    .course h1 {
+        font-size: 32px;
+    }
+    .course-img img {
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 375px){
+    .image-second img {
+        width: 160px;
+        height: 305px;
+    }
+    .image-second {
+        left: 239px;
+        top: 498px;
+    }
+    .image-first img {
+        width: 375px;
+        height: 296px;
+    }
+    .what {
+        margin: 50px 0 0 -10px;
+    }
+    .image-first img {
+        width: 355px;
+        height: 250px;
+    }
+    .image-second img {
+        width: 135px;
+        height: 260px;
+    }
+    .hero button {
+        margin: 50px 0 0 105px;
+    }
+    .hero p {
+        margin: 20px 0 0 90px;
+    }
+    .what {
+        margin: 50px 0 0 -10px;
+        width: 358px;
+        height: 185px;
+    }
+    .what h1 {
+        padding-top: 25px;
+    }
+    .offer p {
+        margin-top: -30px;
+    }
+    .what button {
+         margin: 40px 0 0 125px;
+     }
+    .can h1 {
+        margin: 120px 0 0 3px;
+    }
+    .can p {
+        margin: 240px 0 0 95px;
+    }
+    .footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 320px) {
+    .hero h1 {
+        font-size: 24px;
+    }
+    .hero h2 {
+        font-size: 14px;
+    }
+    .hero button {
+        width: 100px;
+        height: 30px;
+        font-size: 12px;
+    }
+    .hero button {
+        margin: 50px 0 0 98px;
+    }
+    .hero p {
+        margin: 20px 0 0 65px;
+    }
+    .image-first img {
+        width: 290px;
+        height: 200px;
+    }
+    .image-second {
+         left: 187px;
+         top: 460px;
+     }
+    .image-second img {
+        width: 120px;
+        height: 211px;
+    }
+    .first-img {
+        right: 10px;
+        top: 15px;
+    }
+    .second-img {
+        top: 955px;
+        right: 8px;
+        width: 170px;
+        height: 290px;
+    }
+    .enrich {
+        padding-top: 50px;
+    }
+    .trusted h1 {
+        font-size: 30px;
+    }
+    .trusted p {
+        font-size: 10px;
+    }
+    .offer h2 {
+        font-size: 24px;
+    }
+    .what {
+        margin: 50px 0 0 -10px;
+        width: 308px;
+    }
+    .what button {
+        margin: 40px 0 0 100px;
+    }
+    .course h1 {
+        padding: 60px 0 0 60px;
+        font-size: 24px;
+    }
+    .course-img img {
+        margin-top: -60px;
+    }
+    .footer div {
+        margin-top: 30px;
+    }
+        .link-img img {
+            width: 90%;
+            margin-left: 30px;
+        }
+    .swiper-slide h1 {
+        font-size: 10px;
+    }
+    .swiper-slide h3 {
+        font-size: 8px;}
+    .swiper-slide p {
+        font-size: 5px;}
+    .footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
